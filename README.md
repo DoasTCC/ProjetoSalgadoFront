@@ -1,4 +1,4 @@
-# projeto_salgado
+# Projeto Salgado Front-end
 
 ## Project setup
 ```
